@@ -1,2 +1,2 @@
 # ecommerce_dio
-Entrega projeto DIO
+Entrega projeto DIO feito no MySQL Benckmarch
